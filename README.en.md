@@ -5,7 +5,7 @@
 A scroll-driven personal 3D résumé built on **React Three Fiber**.
 
 <h3 align="center">
-  🔗 <a href="https://dayinji.github.io/sen-3d-resume/">Open the Live Demo →</a>
+  🔗 <a href="https://big-guamo.github.io/sen-3d-resume/">Open the Live Demo →</a>
 </h3>
 
 > 💡 **Don't want to write code or fiddle with a toolchain?** Try [intro3d.com](https://intro3d.com): a no-code DIY platform for 3D personal homepages, beginner-friendly, that handles building and deployment in one place. It lacks this project's eye-follows-cursor interaction but is otherwise fairly complete. Want a similar 3D résumé fast? It's the quicker route; want full control and deep customization? Use this repo's source.

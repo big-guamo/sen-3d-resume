@@ -24,15 +24,15 @@ type Lang = 'en' | 'zh'
 
 const COPY = {
   en: {
-    title: 'About Sen',
+    title: 'About Guyi',
     paragraphs: [
-      "I'm Sen — a creative technologist living where code meets art. I spend my days around coding, creativity, playful interaction & design, and CG work. I love studying and combining skills across different fields — to create, and to explore more possibilities.",
+      "I'm Guyi — a software engineer at Huawei's Automotive BU. I studied Electronic Information Engineering at Soochow University and Electrical Engineering at the National University of Singapore. This site is my corner to record daily life, work and study.",
     ],
   },
   zh: {
-    title: 'About Sen',
+    title: '关于我',
     paragraphs: [
-      '我是 Sen——一个游走在代码与艺术之间的创意技术人。我常年和 Coding、创意、有趣的交互 & 设计、CG 创作等打交道，喜欢研究并组合不同领域的技能，来创造并探索更多可能性。',
+      '我是 Guyi——一名华为车 BU 的软件开发工程师。本科毕业于苏州大学电子信息工程，硕士毕业于新加坡国立大学电气工程。这个网站是我的小天地，用来记录日常生活与工作学习。',
     ],
   },
 }
@@ -170,12 +170,12 @@ export default function App() {
         <span className="hero-mark bl">+</span>
         <span className="hero-mark br">+</span>
         <div className="hero-meta hm-tl">
-          <span className="hm-name">Sen Zheng 郑越升</span>
-          <span>Creative Technologist</span>
+          <span className="hm-name">Guyi</span>
+          <span>Software Engineer</span>
         </div>
-        <div className="hero-meta hm-tr">Portfolio — 2026</div>
-        <div className="hero-meta hm-bl">Code · Art · Play</div>
-        <div className="hero-meta hm-right">Based in Shenzhen</div>
+        <div className="hero-meta hm-tr">My Life & Work — 2026</div>
+        <div className="hero-meta hm-bl">Code · Life · Learning</div>
+        <div className="hero-meta hm-right">Huawei · Auto BU</div>
       </motion.div>
 
       {/* 全屏胶片噪点蒙层（multiply 混合） */}
