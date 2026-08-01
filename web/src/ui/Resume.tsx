@@ -54,7 +54,7 @@ const RESUME: Record<'en' | 'zh', { title: string; entries: ResumeEntry[] }> = {
     ],
   },
   zh: {
-    title: '履历',
+    title: 'Résumé',
     entries: [
       {
         period: '2019 – 2023',
@@ -68,7 +68,7 @@ const RESUME: Record<'en' | 'zh', { title: string; entries: ResumeEntry[] }> = {
       },
       {
         period: '2025 – 至今',
-        place: '华为 · 车 BU',
+        place: '华为车BU（引望）',
         role: '软件开发工程师',
       },
       {
@@ -79,7 +79,7 @@ const RESUME: Record<'en' | 'zh', { title: string; entries: ResumeEntry[] }> = {
       {
         period: '2025 – 至今',
         place: '学习记录',
-        role: '技术笔记 · 读书 · 项目',
+        role: '笔记 · 项目 · 读书',
       },
     ],
   },
